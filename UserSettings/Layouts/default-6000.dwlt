@@ -175,7 +175,7 @@ MonoBehaviour:
   - {fileID: 12}
   - {fileID: 15}
   m_Selected: 2
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -274,8 +274,8 @@ MonoBehaviour:
     y: 0
     width: 357.59998
     height: 716.8
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -346,7 +346,7 @@ MonoBehaviour:
     - '{"m_SerializationStates":{"thermalFoldout":false,"performanceFoldout":false,"developerFoldout":false,"indexerFoldout":false,"scalersFoldout":false,"deviceSettingsFoldout":false}}'
     - '{}'
     - '{}'
-    scale: 20
+    scale: 25
     fitToScreenEnabled: 0
     rotationDegree: 0
     highlightSafeAreaEnabled: 0
@@ -933,9 +933,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 15.513334, y: -0.78221273, z: 11.654632}
+    m_Target: {x: 0.67427385, y: 0.6738229, z: 1.078238}
     speed: 2
-    m_Value: {x: 15.513334, y: -0.78221273, z: 11.654632}
+    m_Value: {x: 0.67427385, y: 0.6738229, z: 1.078238}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -981,13 +981,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.2530018, y: 0.5153828, z: -0.16248614, w: -0.8024825}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.25300065, y: 0.51538044, z: -0.16248538, w: -0.80247873}
   m_Size:
-    m_Target: 6.2165146
+    m_Target: 1.089622
     speed: 2
-    m_Value: 6.2165146
+    m_Value: 1.089622
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1165,9 +1165,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 20fbffff
+      m_SelectedIDs: 14fbffff
+      m_LastClickedID: -1260
+      m_ExpandedIDs: a676fdff60cafdffcacdfdff06d4fdffbae2fdffb8e5fdff5cf4fdffdcf9ffffe0f9ffff06fbffff20fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1239,7 +1239,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/StarterAssets
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1249,16 +1249,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/StarterAssets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Arleix\PawventureTheGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7eba0000
-    m_LastClickedID: 47742
-    m_ExpandedIDs: 00000000feb7000000b8000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 58.80002}
+    m_SelectedIDs: 808a0100
+    m_LastClickedID: 100992
+    m_ExpandedIDs: 00000000feb7000000b800007eba00008cba00005cc10000d8c1000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1315,8 +1315,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300009cbb0000d2660000d66c0000d66600001a99000000000000c89f00003cab0000a2b90000aab90000b2b90000bab90000cab90000c2b90000d2b90000dab90000e2b900006cb700006eb70000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300009cbb0000d2660000d66c0000d66600001a99000000000000c89f00003cab0000a2b90000aab90000b2b90000bab90000cab90000c2b90000d2b90000dab90000e2b900006cb700006eb7000026c10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
