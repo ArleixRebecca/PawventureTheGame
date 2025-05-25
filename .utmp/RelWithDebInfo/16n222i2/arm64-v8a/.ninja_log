@@ -1,0 +1,12 @@
+# ninja log v5
+286	3035	7698923019902113	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2cd817efaf3bc671
+3042	7658	7698923054430662	C:/Users/Arleix/PawventureTheGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/16n222i2/obj/arm64-v8a/libswappywrapper.so	27e683c607f6733a
+238	8114	7698923070951191	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c665578bd3a7a059
+179	8188	7698923072264758	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cdea042bb1c51fb1
+69	8409	7698923071934823	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	516d40da8e60398b
+274	8845	7698923078376514	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cf4e99c15a3df718
+261	9404	7698923084677473	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	22187fca64d7a7ed
+5	9495	7698923085682930	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	470e165d5e56f1c8
+57	9689	7698923088015338	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b4c69aa7480af98b
+249	10294	7698923094013214	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	1319cb150215a362
+10294	10549	7698923096701710	C:/Users/Arleix/PawventureTheGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/16n222i2/obj/arm64-v8a/libgame.so	fbe78d1b6a2de378
